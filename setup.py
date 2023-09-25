@@ -7,7 +7,7 @@ REQUIRES = [
 setup(
     name='dm_account_api',
     version='0.0.1',
-    packages=['dm_account_api', 'dm_api_account.apis', 'dm_api_account.models'],
+    packages=['dm_account_api', 'dm_account_api.apis', 'dm_account_api.models'],
     url='https://github.com/widowblack11/dm_account_api.git',
     license='MIT',
     author='oksanaprokopenko',
